@@ -1,0 +1,534 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lamentation of the safe committee. Or, Fleetwood's teares, Hewson's last, Desborough's cart, met together at Hangmans-fayre. With their neck-verses, and severall discourses thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88486</idno>
+            <idno type="STC">Wing L289</idno>
+            <idno type="STC">Thomason E1844_2</idno>
+            <idno type="STC">ESTC R209654</idno>
+            <idno type="EEBO-CITATION">99868519</idno>
+            <idno type="PROQUEST">99868519</idno>
+            <idno type="VID">170456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 230:E1844[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lamentation of the safe committee. Or, Fleetwood's teares, Hewson's last, Desborough's cart, met together at Hangmans-fayre. With their neck-verses, and severall discourses thereon.</title>
+               </titleStmt>
+               <extent>[2], 8, 11-14p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbertson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in the form of a dialogue; includes some verse.</note>
+                  <note>Annotation on Thomason copy: "Aug: 28"; to the right of imprint date a pyramid shape with a vertical line rising from its base.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fleetwood, Charles, d. 1692 --  Early works to 1800.</term>
+               <term>Hewson, John, d. 1662 --  Early works to 1800.</term>
+               <term>Desborough, John, 1608-1680 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170456:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+            <p>THE LAMENTATION OF The Safe Committee.</p>
+            <p>OR, <hi>Fleetwood's</hi> Teares, <hi>Hewſon's</hi> Laſt, <hi>Deſborough's</hi> Cart, Met together at <hi>Hangmans-FAYRE.</hi> WITH Their <hi>Neck-verſes,</hi> and ſeverall Diſcourſes thereon.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Gilbertſon.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170456:2"/>
+            <!-- PDF PAGE 76 -->
+            <pb n="1" facs="tcp:170456:2"/>
+            <!-- PDF PAGE 76 -->
+            <stage>Enter Fleetwood.</stage>
+            <sp>
+               <speaker>F.</speaker>
+               <p>YOur moſt humble ſervant Col. <hi>Hew<g ref="char:EOLhyphen"/>ſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hew.</speaker>
+               <p>A poor Cobler thanks you ſir: but I have been your ſervant too long for my profit as it falls out now.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why Col. <hi>Hewſon</hi> what miſchief ſo<g ref="char:EOLhyphen"/>ever you have done for me and my brethren I believe you have had your deſerts fort</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>No not ſo neither Sir, for if I had I'd been hangd at <hi>Wallingford Houſe</hi> a twelvemonth a goe.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why? I hope you never loſt by me <hi>Coll. Hewſon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I am ſure I never got by ye, except twas ſhame, reproach, and ignominy.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Truly <hi>Coll. Hewſon</hi> 'twas even ſuch as I had my ſelf, therefore be content, for what the Divil ſent me, even ſuch take you and be thankfull.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Thankfull! for what Mr. <hi>Fleet<g ref="char:EOLhyphen"/>wood?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>For the Commiſſion you tooke of me at
+<pb n="2" facs="tcp:170456:3"/>
+                  <!-- PDF PAGE 77 -->
+                  <hi>Wallingford Houſe</hi> laſt winter, when you went into the <hi>Citty</hi> and kild a prentice boy, whereby you got your honour.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Tooke a Commiſſion of you then, the Divil pick your bones; I would I had took a Coblers ſtalle at that time, 'twould have ſaved me the price of my Neck I am ſure on't.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>No, no <hi>Coll. Hewſon</hi> the old proverb ſes, 'tis craft un the catching; and you are ſafe yet.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Oh las Mr. <hi>Fleetwood</hi> you talke, know ye not the <hi>Fox</hi> is craftier then all Beaſts, yet he is hunted by the ſcent of his ſizling Taile, that through his loath<g ref="char:EOLhyphen"/>ſomeneſſe he is catcht at laſt.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>What, then you thinke the odiouſneſſe of our action, will cauſe all people to hunt after us?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye, and all the world will endea<g ref="char:EOLhyphen"/>vour to take us.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>But how will they know us Brother <hi>Hewſon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O too well Brother <hi>Fleetwood,</hi> I by my blind eye, which now might wiſh I never had any at all. And you by your long ſpare necke, I would a had been hang'd twenty years agoe, then we had quit all theſe calamities,</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:170456:3"/>
+               <!-- PDF PAGE 77 -->
+               <speaker>F.</speaker>
+               <p>Aye, aye, I could ſay ſo to Brother <hi>Hewſon,</hi> and wiſh as the Scripture ſaith; <hi>That a Milſtone had been hang'd about my Neck and that I had been caſt in the bottome of the Sea,</hi> before I had been plung'd in all theſe ſorrows; and the Scrip<g ref="char:EOLhyphen"/>ture ſaith, <hi>Yet they are but the beginning of Sorows.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye, aye, Brother <hi>Fleetwood,</hi> you were ever prone ſo to Scripture Lan<g ref="char:EOLhyphen"/>guage, that the Divil a good word procee<g ref="char:EOLhyphen"/>ded fron your mouth at laſt.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why Brother <hi>Hewſon,</hi> I thought you to be a downright deſtroyer, Tranſlator of Religion, as you were formerly of Boots and Shooes.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye Brother <hi>Fleetwood,</hi> 'twas better then go through ſtitch, then now through Treaſon, I was tearmed then an honeſt Cobler, now cald an arrand Traitor; but the Divil bewitcht you to ſtir up ſmoake from quenched flames, in ſending me with my poor reprobates many wanting Hoſe and Shooes, into the awakned Ci<g ref="char:EOLhyphen"/>ty, where we ſeemed unto them like ſo many Sprights, or as a wodden packſad<g ref="char:EOLhyphen"/>dle on a galld horſe bach, ſpurning, kick<g ref="char:EOLhyphen"/>ing, and ſpitting at us; ſo theſe wrought
+<pb n="4" facs="tcp:170456:4"/>
+                  <!-- PDF PAGE 78 -->our diſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Nay but Brother <hi>Hewſon,</hi> I thought to Reforme Religion, and promote the <hi>An<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>baptiſts,</hi> which promiſed me great ſums of Money.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O you ſhould have tooke the Mo<g ref="char:EOLhyphen"/>ney, by all meanes in the world; and let them been hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Faith that had been the beſt way Brother <hi>Hewſon,</hi> but now I fear we ſhall be hang'd, therefore prepare your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Prepare my ſelf brother <hi>Fleetwood,</hi> truly I believe the whole Kingdome can teſtifie, that we were ready for't a Dozen Years agoe.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>But I tould you often times and ſe<g ref="char:EOLhyphen"/>verally, not to plunge your ſoft braine of deſtruction, in the ruines of Religion, but reſt quietly in your den of ſedition, eat<g ref="char:EOLhyphen"/>ing up the fat of the Land, and reaping the fruits of other mens benefits; and was not this a brave, ſweete, Jewiſh, heritical life for us two to a liv'd in?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Aye truely brother, but in thoſe dayes I did not much liſten to ye, for my heart was waxed groſſe, and my eares were dull of hearing, my tongue was full of deceite, and my hands were full of cheating, and truly
+<pb n="5" facs="tcp:170456:4"/>
+                  <!-- PDF PAGE 78 -->I thought to adminiſter and execute injuſtice and Deſtruction impartially, throughout the whole Kingdome, till my ſeditions began to depart from me, and that <hi>Sea Monſter</hi> ap<g ref="char:EOLhyphen"/>peared out of <hi>Scotland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Out of Scotland do ye ſay? you know very well that we had as active Ido<g ref="char:EOLhyphen"/>lizing hipocrites, in <hi>Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> both for fraud and confuſion as we our ſelves were, had they but obeyed our Speciall Commands.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Well brother <hi>Hewſon,</hi> we had Diviliſh failings in altering our Church Govern<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>H:</speaker>
+               <p>Aye brother <hi>Fleetwood</hi> ſo we had, but for good ſums of money we would have endeavoured too, to have altered the foundation of England.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why, would you have ventured the o<g ref="char:EOLhyphen"/>ther eye for it?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye Faith brother that I wo'd, both body and ſoule, I love Money ſo well.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>But what Churches would you have had then?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Churches, none at all, did not I forewarn you alwaies not to meddle with Church government.</p>
+            </sp>
+            <sp>
+               <speaker>F:</speaker>
+               <p>Why brother <hi>Hewſon,</hi> did you ſee me
+<pb n="8" facs="tcp:170456:5"/>
+                  <!-- PDF PAGE 79 -->meddle with the government to promote it? Indeed I muſt confeſſe, the Churches I would have pul'd down as faſt as I dould; But for worſhip, I did in my Den, like a Hog in his ſtye, you know very well I never ſtir'd a foote out of dores.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>But did you thinke of no Religion then Brother <hi>Hewſon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>No as god judge my Soule brother <hi>Fleetwood,</hi> no more then I did of my dy<g ref="char:EOLhyphen"/>ing day.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>What, were you led by the Spirit al<g ref="char:EOLhyphen"/>together?</p>
+            </sp>
+            <sp>
+               <speaker>H:</speaker>
+               <p>Yes truly, but I had Divliſh fayl<g ref="char:EOLhyphen"/>ings.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>But what makes that terrible ſhaking in your head, and your left hand?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why truly that come of a Dreame two yeares agoe, for I thought the King was coming home, and with the affright the very horrour of my conſcience fum'd up into my head, whereby it continued e<g ref="char:EOLhyphen"/>ver ſince.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>But what Action were you imployed in brother <hi>Hewſon,</hi> when you loſt that eye?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O brother <hi>Fleetwood</hi> when <hi>I</hi> loſt that eye, wod both yours had dropt out, then the Nation had been a great dale
+<pb n="9" facs="tcp:170456:5"/>
+                  <!-- PDF PAGE 79 -->the better for't, and we might have kept our heads on, which now lies in a dange<g ref="char:EOLhyphen"/>rous quere:</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why, will they head us de'e think?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Head us, or Hang us, it's all one to them.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Aye but <hi>Dun</hi> will not do it I am ſure out. Oh brother 'tis ſorry truſting him, for he has hang'd many a one for leſſe cauſe, I'le warrant ye.</p>
+            </sp>
+            <lg>
+               <head>Neck-Verſe.</head>
+               <l>THen come thou noble handed Blade,</l>
+               <l>Shew thy de<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erity;</l>
+               <l>Since fortune proved, ſuch a jade;</l>
+               <l>I muſt ſubmit to thee.</l>
+               <l>Though once I thought I never ſhould</l>
+               <l>Be ſubiect to a King,</l>
+               <l>When like to <hi>Nero</hi> I did rule,</l>
+               <l>I was more Lord then him.</l>
+               <l>I thought I was the beſt of Men</l>
+               <l>And all the people knew,</l>
+               <l>An Oracle I ſeemed then,</l>
+               <l>To my ſeditious crew.</l>
+               <l>My actions baſe and infinite</l>
+               <l>And to the world is known,</l>
+               <l>But all the joyes I have in it</l>
+               <l>I ſhall not die alone.</l>
+            </lg>
+            <sp>
+               <pb n="8" facs="tcp:170456:6"/>
+               <!-- PDF PAGE 80 -->
+               <speaker>H.</speaker>
+               <p>Dye alone brother <hi>Fleetwood,</hi> no, no, ther's a hundred, and a hundred, will be hanged biſides you and I.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>O it may be you do meane the <hi>Rump,</hi> but they were not above fourſcore.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye, but when they and we come together, we make a Diveliſh number.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why then the Divil was in them as well as we?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Aye brother that ye may be ſure on, for he was no reſpecter of perſons.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I would he had run us into the middle of the Sea then, as he did the Hearde of Swine.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Nay brother <hi>Fleetwood,</hi> he had ra<g ref="char:EOLhyphen"/>ther run us to be hang'd firſt I doubt, he owed us a ſhame and we ſhall fully be payed it.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Oh but alas, here comes my brother <hi>Desborough;</hi> your moſt humble ſervant Coll. <hi>Desborough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Des.</speaker>
+               <p>A Colonel, a Hang-man.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why a Hang-man brother <hi>Des<g ref="char:EOLhyphen"/>brough?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>It's better be a hang-man, then to be hang'd my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Come, come, brother Desbrough, lets beare good Cheere as long as we are alive.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:170456:6"/>
+               <!-- PDF PAGE 80 -->
+               <speaker>D.</speaker>
+               <p>Aye and that's impoſſible it ſhould be long.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Then let us go to prayers a little.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Aye as little as you pleaſe, for I could never pray in all my life.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>What ſay you brother <hi>Hewſon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why truly I ſay thus, <hi>I</hi> have no more patience to pray, then I have to be hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Alas deare brethren I cannot blame ye.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Truly brother, a great many do, though they do not.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why, whats the newes, in thoſe parts you have been?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Nothing but noiſe over all the Countries roaring in the vallies, like huntſ men after wolves, and all their Cry is, <hi>Fleetwood, Desbrough,</hi> and <hi>Hewſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F:</speaker>
+               <p>Why, do they know that we are in the Country?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Aye, as well as you your ſelves do.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>O ſad newes, ſad newes, but what do they call us?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Call us, they terme us to be Vaga<g ref="char:EOLhyphen"/>bonds, Runagades, and Fugatives, bear<g ref="char:EOLhyphen"/>ing the marke of the beaſt, and the curſe of <hi>Cain;</hi> threatning every one that meet, us to ſlay us,</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:170456:7"/>
+               <!-- PDF PAGE 81 -->
+               <speaker>F.</speaker>
+               <p>Alas a day, and how come you ſo ſafe hither?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Truly with much adoe, a greater hazard then I was in at the takeing of <hi>Tre<g ref="char:EOLhyphen"/>dath</hi> in <hi>Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Why, did they ever atttempt upon ye?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>O ſeveral times, and once I was faine to leape into a houſe of office, and there I kept my office above a quarter of an houre; receiving ſuch a ſcent, enough to Raviſh any Carre Horſe in <hi>London,</hi> but being but counterfeit attempt, I retired to the houſe againe, thinking to ſhift my all ſcented garment; the woman of the houſe bid me be gone for a ſtinking knave or elſe ſhe'd fetch the Conſtable, which I had rather a heard talke of the Divil at that time, and ſo I tript over the plaine, with all the dogs in the town after me.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Alas deare brother, thou haſt been perſecuted as well as I: Pray whats yours? Truly when I forſooke <hi>London,</hi> I was dreſt in a poore gray ſuit, and I went into<hi>Surry,</hi> where neare unto <hi>Darkin,</hi> as I was going over a Stile an unmannerly Spill catcht me by the poore conditioned Breetches and ript them up to the waſte, which made me tripp two miles out of my way to have them re<g ref="char:EOLhyphen"/>paired.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:170456:7"/>
+               <!-- PDF PAGE 81 -->
+               <speaker>D.</speaker>
+               <p>But whether was the Spirit leading you then?</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>My intended place was to <hi>Hamp<g ref="char:EOLhyphen"/>ſhire,</hi> to meete with ſome of my brother Traytors, but fortune not much favouring us, I deſigned my purpoſe, hither to <hi>Lanceſ<g ref="char:EOLhyphen"/>ton.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>O brother <hi>Fleetwood,</hi> I cannot chooſe but think what a Divliſh fate have hang'd over our heads, ever ſince our Grand Sire Nol took's leave.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>O aye brother Desbrough in his daies we behaved our ſelves like three ſtout, vali<g ref="char:EOLhyphen"/>ant Divils, which cauſed us ſtill to have Di<g ref="char:EOLhyphen"/>viliſh fortune, but now let us ſit down and ſay on this manner.</p>
+               <lg>
+                  <l>O Fortune why haſt thou beguiled me?</l>
+                  <l>Which in thy boſome alwaies did me Nurſe,</l>
+                  <l>Could'ſt thou not find no other plagues for me</l>
+                  <l>but this to make me only be accurſt;</l>
+                  <l>Which is in Scripture written plaine you ſee,</l>
+                  <l>Cur'ſt is the man that hangeth on a tree.</l>
+               </lg>
+               <lg>
+                  <l>I poore blind <hi>Hewſon,</hi> Cobler am by Trade,</l>
+                  <l>A <hi>Coll:</hi> once though now have got a fall,</l>
+                  <l>My actions are rechoded good and bad,</l>
+                  <l>Which will appeares in publicke to you all.</l>
+                  <l>
+                     <pb n="14" facs="tcp:170456:8"/>
+                     <!-- PDF PAGE 82 -->
+And in the lines you plainly there might read,</l>
+                  <l>A prentice boy in <hi>London</hi> Murdered.</l>
+               </lg>
+               <lg>
+                  <l>I Coll. <hi>Desbrough</hi> formerly a Lord,</l>
+                  <l>Which Title ſeemed to me moſt unfit;</l>
+                  <l>Created by the Divel and the Sword,</l>
+                  <l>And in high courts of Juſtice I did ſit,</l>
+                  <l>Nor doth my bloody acts make me diſpaire</l>
+                  <l>For in the <hi>Gallows</hi> I do claime my ſhare.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
